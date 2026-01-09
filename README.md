@@ -35,6 +35,7 @@ Sono stati utilizzati dataset astronomici pubblici provenienti da fonti ufficial
 
 - [SIMBAD Astronomical Database](https://simbad.cds.unistra.fr/simbad/)   
 - [EXTraS Public Archive](https://extras.inaf.it)
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/93/low+resolution+spectrometer)
 
 I dati contengono misure osservative legate a luminosità e proprietà fisiche di oggetti celesti.
 
@@ -63,6 +64,7 @@ Nel progetto sono state utilizzate diverse tecniche:
 - Heatmap e grafici di densità per evidenziare le concentrazioni dei dati
 - Istogrammi bidimensionali per lo studio delle distribuzioni
 - Distribuzioni monovariate (istogrammi e funzioni di distribuzione cumulativa)
+- Boxplot logaritmico che analizza la distribuzione della luminosità per ogni ID Type
 
 Ogni visualizzazione è stata scelta in funzione dello specifico obiettivo analitico.
 
