@@ -36,6 +36,7 @@ Sono stati utilizzati dataset astronomici pubblici provenienti da fonti ufficial
 - [SIMBAD Astronomical Database](https://simbad.cds.unistra.fr/simbad/)   
 - [EXTraS Public Archive](https://extras.inaf.it)
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/93/low+resolution+spectrometer)
+- [HTRU2](https://archive.ics.uci.edu/dataset/372/htru2)
 
 I dati contengono misure osservative legate a luminosità e proprietà fisiche di oggetti celesti.
 
