@@ -8,6 +8,8 @@ Observational data in astronomy are often characterized by high complexity, with
 Throughout the project, various visualization techniques were adopted, including log-log scatter plots, density maps, and univariate distribution analysis, with the goal of evaluating the effectiveness of each approach in interpreting the data. Additionally, a density-based clustering method (DBSCAN) was tested to verify the presence of significant groupings among the observations.
 
 Developed as part of the Scientific Visualization course (A.Y. 2025/2026), this project aims to demonstrate how a conscious use of visualization techniques can support the analysis and interpretation of complex astronomical phenomena.
+[Link to the slides (n italian)](https://www.canva.com/design/DAG6fLkFpy0/INrlAEsH5qZ0NVXHWp1zSA/view?utm_content=DAG6fLkFpy0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1f700ca13d)
+
 
 ---
 
