@@ -30,6 +30,7 @@ Public astronomical datasets from official sources were utilized:
 - [SIMBAD Astronomical Database](https://simbad.cds.unistra.fr/simbad/)   
 - [EXTraS Public Archive](https://extras.inaf.it)
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/93/low+resolution+spectrometer)
+- [HTRU2](https://archive.ics.uci.edu/dataset/372/htru2)
 
 
 The data contain observational measurements related to the luminosity and physical properties of celestial objects.
