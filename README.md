@@ -10,7 +10,7 @@ Throughout the project, various visualization techniques were adopted, including
 Developed as part of the Scientific Visualization course (A.Y. 2025/2026), this project aims to demonstrate how a conscious use of visualization techniques can support the analysis and interpretation of complex astronomical phenomena.
 
 
-[Link to the slides In Italian)](https://www.canva.com/design/DAG6fLkFpy0/INrlAEsH5qZ0NVXHWp1zSA/view?utm_content=DAG6fLkFpy0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1f700ca13d)
+[Link to the Presentation (In Italian)](https://www.canva.com/design/DAG6fLkFpy0/INrlAEsH5qZ0NVXHWp1zSA/view?utm_content=DAG6fLkFpy0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1f700ca13d)
 
 
 ---
